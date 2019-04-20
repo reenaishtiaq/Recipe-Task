@@ -1,2 +1,2 @@
 # Recipe-Task
-Recipe.html
+Recipe.htmlhttps://reenaishtiaq.github.io/Recipe-Task/
